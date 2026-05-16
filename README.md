@@ -78,8 +78,6 @@ DOI: https://doi.org/10.1038/srep44997
 
 ---
 
-## Web Server
-
 ### CancerCSP
 The authors developed an online prediction server for classifying ccRCC stages using gene expression values.
 
@@ -101,16 +99,8 @@ The study successfully identified compact and biologically meaningful biomarker 
 These biomarker panels may assist researchers and clinicians in understanding cancer progression and developing prognostic tools for ccRCC.
 
 ---
+Author and contact 
+Prof : Gajendra Pal Singh Raghava
+Department of Computational Biology  
+IIIT Delhi, India
 
-# Citation
-
-Bhalla S, Chaudhary K, Kumar R, Sehgal M, Kaur H, Sharma S, Raghava GPS.  
-**Gene expression-based biomarkers for discriminating early and late stage of clear cell renal cancer.**  
-*Scientific Reports.* 2017;7:44997.  
-DOI: https://doi.org/10.1038/srep44997
-
----
-
-# Source
-
-Uploaded PDF: :contentReference[oaicite:0]{index=0}
