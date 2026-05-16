@@ -21,6 +21,8 @@ The study demonstrates the importance of compact biomarker signatures and machin
 
 
 webserver : https://webs.iiitd.edu.in/raghava/cancercsp/
+
+zenodo : https://doi.org/10.5281/zenodo.20225603
 ---
 
 Bhalla S, Chaudhary K, Kumar R, Sehgal M, Kaur H, Sharma S, Raghava GPS.  
